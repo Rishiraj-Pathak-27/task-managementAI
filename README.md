@@ -96,3 +96,5 @@ Enter Results → AI Learns → Better Assignments
 3. **task_manager.py uses** `assignment_engine.py` for AI operations
 4. **Data is stored** in CSV files (users, tasks, results)
 5. **AI learns** from `results.csv` to improve future assignments
+
+# Access the Model: https://huggingface.co/spaces/rishirajpathak/task-management
