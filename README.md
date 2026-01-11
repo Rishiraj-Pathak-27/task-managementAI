@@ -1,16 +1,4 @@
----
-title: AI Task Assignment System
-emoji: 🧠
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: false
-license: mit
----
-
-# 🧠 AI Task Assignment System
+# 🧠 AI Task Management & Assignment System
 
 A self-learning task assignment engine that automatically optimizes team productivity by learning from real task completion results.
 
